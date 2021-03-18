@@ -721,6 +721,7 @@ body {
     font-size: 14px;
     font-weight: 300;
     overflow-x: hidden !important;
+    
 }
 
 h1 {
@@ -1562,14 +1563,14 @@ ul.list-inline li {
 
 .has-children a {
     font-size: 15px;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 .site-navbar .site-navigation .site-menu .has-children>a {
     position: relative;
     padding-right: 20px;
-    font-size: 15px;
-    font-weight: 400;
+    font-size: 14px;
+    font-weight: 300;
 }
 
 .site-navbar-wrap .site-navbar .site-navigation .site-menu .has-children>a::before {
@@ -1685,8 +1686,8 @@ ul.list-inline li {
     color: #666;
     transition: 0.3s;
     line-height: 1.5;
-    font-size: 14px;
-    font-weight: 300;
+    font-size: 15px;
+    font-weight: 400;
     padding: 10px 0;
 }
 
@@ -7282,7 +7283,6 @@ input[type="radio"] {
 -------------------------------------------*/
 
 
-/*
 .preloader {
     position: fixed;
     top: 0;
@@ -7296,7 +7296,6 @@ input[type="radio"] {
     align-items: center;
     justify-content: center;
 }
-*/
 
 /*------------------------------------------
         Map Marker
@@ -8639,6 +8638,8 @@ span.infobox_rate {
         padding: 0 2px 0 0;
     }
 }
+
+
 
 /*@media only screen (max-width:767px) and(orientation:landscape){
 
